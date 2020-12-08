@@ -1,0 +1,23 @@
+{
+  "name": "fooler-static",
+  "version": "1.0.0",
+  "description": "fooler static",
+  "main": "src/fooler-static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBye/fooler-static.git"
+  },
+  "keywords": [
+    "fooler",
+    "static"
+  ],
+  "author": "NBye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBye/fooler-static/issues"
+  },
+  "homepage": "https://github.com/NBye/fooler-static#readme"
+}
